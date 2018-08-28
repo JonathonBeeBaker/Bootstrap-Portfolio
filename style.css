@@ -1,0 +1,19 @@
+body {
+    Background-color: #333;
+}
+
+.container {
+    background-color: blue;
+}
+
+h1 {
+    background-color: greenyellow;
+    padding: 5px 10px;
+
+}
+
+.line {
+    width: 900px;
+    height: 5px;
+    background-color: #666;
+}
