@@ -1,14 +1,16 @@
 body {
     Background-color: #333;
+    Background-image: url(assets/topography.png)
 }
 
 .container {
-    background-color: blue;
+    background-color: #fff;
 }
 
 h1 {
     background-color: greenyellow;
     padding: 5px 10px;
+    margin: 10px;
 
 }
 
@@ -16,4 +18,18 @@ h1 {
     width: 900px;
     height: 5px;
     background-color: #666;
+    margin: auto;
+}
+
+.col-2 img {
+    height: 200px;
+}
+
+h2 {
+    padding: 10px;
+    margin: 10px;
+}
+
+.navbar navbar-dark bg-dark {
+    background-color: greenyellow;
 }
