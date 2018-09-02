@@ -1,5 +1,5 @@
 body {
-    Background-color: #333;
+    Background-color: #fff;
     Background-image: url(assets/topography.png)
 }
 
@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    background-color: greenyellow;
+    color: greenyellow;
     padding: 5px 10px;
     margin: 10px;
 
@@ -30,6 +30,6 @@ h2 {
     margin: 10px;
 }
 
-.navbar navbar-dark bg-dark {
-    background-color: greenyellow;
+footer {
+    text-align: center;
 }
